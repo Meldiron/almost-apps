@@ -4,6 +4,6 @@
 	<div class="absolute inset-0 gridBg opacity-[40%]" />
 
 	<div class="relative">
-		<h1 class="text-center text-[100px] font-extrabold">Almost Finished...</h1>
+		<h1 class="text-center text-4xl sm:text-[100px] font-extrabold">Almost Finished..</h1>
 	</div>
 </div>

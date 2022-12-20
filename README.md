@@ -1,4 +1,14 @@
-# create-svelte
+![Almost Cover](static/cover.png)
+
+# 💬 Almost Apps
+
+> Open source clones of popular platforms.
+
+![Almost Icon](static/favicon.png)
+
+> README is work in progress ⚙️
+
+## 🤖 Svelte Kit Generated Documentation
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 

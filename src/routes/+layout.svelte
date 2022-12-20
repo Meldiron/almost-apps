@@ -19,8 +19,7 @@
 	<div class="col-span-12 lg:col-span-6 bg-[#f6f6f6] rounded-[40px] w-full p-8">
 		<h1 class="text-5xl mb-4">👋</h1>
 		<p class="text-xl text-slate-800 mb-3">
-			<b class="font-bolder">Almost Apps</b> is a set of projects replicating iconic functionalities
-			of existing applications.
+			<b class="font-bolder">Almost Apps</b> is set of open source clones of popular platforms.
 		</p>
 		<p class="text-slate-600 mb-3">
 			Projects do not focus on design itself, only the integration. We don't claim authorship of any

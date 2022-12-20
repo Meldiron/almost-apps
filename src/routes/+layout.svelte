@@ -11,3 +11,12 @@
 </div>
 
 <slot />
+
+<div class="mx-auto max-w-2xl my-12">
+	<hr>
+	<div class="mt-6 flex justify-center space-x-6">
+		<a href="https://github.com/almostapps" rel="noreferrer" class="hover:underline">GitHub</a>
+		<a href="https://discord.gg/ubqeRSakvG" rel="noreferrer" class="hover:underline">Discord</a>
+	</div>
+
+</div>

@@ -75,7 +75,7 @@
 	</div>
 </div>
 
-<div class="px-3 py-20 bg-white">
+<div class="px-3 pt-20 bg-white">
 	<div class="mx-auto max-w-2xl">
 			<div class="flex flex-col space-y-6">
 				<h1 class="font-extrabold text-black text-center text-4xl">Get In Touch.</h1>

@@ -1,13 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Mali:wght@700&family=Solway:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap');
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-.title {
-    font-family: 'Mali', cursive !important;
+body {
+	font-family: 'Plus Jakarta Sans', sans-serif;
 }
 
-body {
-    font-family: 'Solway', serif;
+.gridBg {
+    background-image: url('/grid.svg');
+}
+.gridBgDark {
+    background-image: url('/dark-grid.svg');
 }

@@ -4,9 +4,9 @@
 	<div class="absolute inset-0 gridBg opacity-[40%]" />
 
 	<div class="relative">
-		<h1 class="text-center text-4xl sm:text-[100px] font-extrabold">Almost Apps</h1>
+		<h1 class="text-center text-4xl sm:text-8xl font-extrabold">Almost Apps</h1>
 		<h3
-			class="text-transparent bg-clip-text bg-gradient-to-r from-[#D4D4D4] to-[#686868] max-w-2xl mt-8 text-center text-3xl sm:text-[60px] font-extrabold"
+			class="text-transparent bg-clip-text bg-gradient-to-r from-[#D4D4D4] to-[#686868] max-w-2xl mt-8 text-center text-3xl sm:text-6xl font-extrabold"
 		>
 			Open source clones of popular platforms.
 		</h3>
@@ -20,9 +20,9 @@
 	<div class="absolute inset-0 bg-gradient-to-t from-[rgba(0,0,0,1)] to-[rgba(0,0,0,0)]" />
 
 	<div class="relative">
-		<h1 class="text-center opacity-25 text-4xl sm:text-[100px] font-extrabold">Learn?</h1>
-		<h1 class="text-center opacity-50 text-4xl sm:text-[100px] font-extrabold mt-8">Build?</h1>
-		<h1 class="text-center text-4xl sm:text-[100px] font-extrabold mt-8">Clone!</h1>
+		<h1 class="text-center opacity-25 text-4xl sm:text-8xl font-extrabold">Learn?</h1>
+		<h1 class="text-center opacity-50 text-4xl sm:text-8xl font-extrabold mt-8">Build?</h1>
+		<h1 class="text-center text-4xl sm:text-8xl font-extrabold mt-8">Clone!</h1>
 	</div>
 </div>
 
@@ -70,8 +70,8 @@
 	<div class="absolute inset-0 bg-gradient-to-t from-[rgba(0,0,0,1)] to-[rgba(0,0,0,0)]" />
 
 	<div class="relative flex flex-col items-center">
-		<h1 class="text-center text-4xl sm:text-[100px] font-extrabold mt-8">Made With</h1>
-		<a href="https://appwrite.io/" rel="noreferrer" class="text-center text-[#f02e65] text-3xl sm:text-[100px] font-extrabold mt-8 hover:underline">Appwrite</a>
+		<h1 class="text-center text-4xl sm:text-8xl font-extrabold mt-8">Made With</h1>
+		<a href="https://appwrite.io/" rel="noreferrer" class="text-center text-[#f02e65] text-3xl sm:text-8xl font-extrabold mt-8 hover:underline">Appwrite</a>
 	</div>
 </div>
 

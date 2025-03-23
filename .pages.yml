@@ -1,0 +1,12 @@
+content:
+  - name: Settings
+    label: Settings
+    path: static/_settings
+    type: file
+    fields:
+    - name: title
+      label: Title
+      type: text
+      options:
+        maxlength: 140
+        minLength: 5

@@ -1,6 +1,6 @@
 content:
-  - name: Settings
-    label: Settings
+  - name: Homepage
+    label: Homepage
     path: static/cms/settings.json
     type: file
     format: json

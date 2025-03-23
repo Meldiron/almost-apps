@@ -3,6 +3,7 @@ content:
     label: Settings
     path: static/_settings
     type: file
+    format: json
     fields:
     - name: title
       label: Title
